@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded datasets and training artifacts
+kaggle.json
+.kaggle/
+dataset_split/
+*.keras
+*.h5
+*.weights.h5
+saved_model/
+best_model_savedmodel/
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
